@@ -11,9 +11,9 @@ schoolList (Array of Object) with key name, yearIn, yearOut, and major (if any, 
 skills (Array of Obj) with key skillName and level (beginner, advanced, expert)
 interestInCoding (Boolean)
 ```
-![](./img/Soal1.png)
-
-![](./img/Soal1%20crop.png)
+![](./img/Screenshot%20(108).png)
+![](./img/Screenshot%20(109).png)
+![](./img/Screenshot%20(110).png)
 
 ## Soal 2
 ```
@@ -44,7 +44,7 @@ Output:
 “Data harus number”
 
 ```
-![](img/Soal3.png)
+![](./img/Screenshot%20(107).png))
 
 ## Soal 4
 ```

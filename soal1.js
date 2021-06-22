@@ -1,6 +1,7 @@
 let bio ={
     name            : "Figo Yusra H",
     age             : 20,
+    hobbies         : ["nonton film,stream dan konten video", "main game"],
     IsMarried       : false,
     schoollist      : [ {
         school      : "SDN Rampal Celaket 2",
