@@ -7,13 +7,13 @@ let bio ={
         school      : "SDN Rampal Celaket 2",
         yearIn      : 2007,
         yearOut     : 2013,
-        major       : ""
+        major       : null
     },
     {
         school      : "SMPN 16 Malang",
         yearIn      : 2013,
         yearOut     : 2016,
-        major       : ""
+        major       : null
     },
     {
         school      : "SMKN 4 Malang",

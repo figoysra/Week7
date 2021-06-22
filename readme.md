@@ -11,7 +11,7 @@ schoolList (Array of Object) with key name, yearIn, yearOut, and major (if any, 
 skills (Array of Obj) with key skillName and level (beginner, advanced, expert)
 interestInCoding (Boolean)
 ```
-![](./img/Screenshot%20(108).png)
+![](./img/Screenshot%20(111).png)
 ![](./img/Screenshot%20(109).png)
 ![](./img/Screenshot%20(110).png)
 
