@@ -1,4 +1,4 @@
-# Javascript 1
+# Javascript  1
 
 ## Soal 1
 ```
